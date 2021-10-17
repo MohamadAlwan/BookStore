@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="welcome_to_book_store_app">Welcome to Book Store App</string>
+</resources>
